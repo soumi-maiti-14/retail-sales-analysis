@@ -16,7 +16,7 @@ statistical testing, and an interactive Excel dashboard.
 
 
 
-!\[Dashboard Overview](dashboard\_preview.png)
+![Dashboard Overview](dashboard_preview.png)
 
 
 
